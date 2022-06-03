@@ -1,0 +1,19 @@
+adj_metric: cosine
+adj_parameter: 2
+data_folder: SHS_AI_wristE_s0.1_d0.6
+dropout:
+- 0.6
+epochs: 1500
+factor: 0.5
+fold_num: 10
+gamma: 0.6666666666666666
+lr: 0.01
+milestones: 1,2
+min_lr: 1.0e-06
+num_class: 2
+num_test_model: 1
+patience: 2
+scheduler: CosineAnnealingLR
+slope:
+- 0.1
+train_val_data: wrist_erosion_1503.csv
