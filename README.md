@@ -39,11 +39,11 @@ for RF
 - boruta_py >= 0.3
 
 # References
-The following two papers and codes were the main references for the construction of the GCNs used in this study and for understanding the theory.
+- The following two papers and codes were the main references for the construction of the GCNs used in this study and for understanding the theory.
 
 Schulte-Sasse R, Budach S, Hnisz D, et al. Integration of multiomics data with graph convolutional networks to identify new cancer genes and their associated molecular mechanisms. Nat Mach Intell 2021;3:513–26. doi:10.1038/s42256-021-00325-y　[https://github.com/schulter/EMOGI](https://github.com/schulter/EMOGI)
 
 Wang T, Shao W, Huang Z, et al. MOGONET integrates multi-omics data using graph convolutional networks allowing patient classification and biomarker identification. Nat Commun 2021;12:3445. doi:10.1038/s41467-021-23774-w　[https://github.com/txWang/MOGONET](https://github.com/txWang/MOGONET)
 
-code of Boruta can be found [here](https://github.com/scikit-learn-contrib/boruta_py)  
+- code of Boruta can be found [here](https://github.com/scikit-learn-contrib/boruta_py)  
 Kursa MB, Rudnicki WR. Feature Selection with the Boruta Package. J Stat Softw 2010;36. doi:10.18637/jss.v036.i11
