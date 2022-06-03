@@ -1,5 +1,5 @@
 # GCN_SHS_NET
-Suguru Honda, MD, Koichiro Yano, MD, PhD, Eiichi Tanaka, MD, PhD, Katsunori Ikari, MD, PhD, Masayoshi Harigai, MD, PhD
+Suguru Honda, Koichiro Yano, Eiichi Tanaka, Katsunori Ikari, Masayoshi Harigai
 
 This project is validating whether graph neural networks and random forests can accurately predict the progression of joint destruction. The Sharp/van der Heijde score (SHS) is based on AI-predicted scores. [See also this repository.](https://github.com/honda-s691470/SHS_NET)
 
